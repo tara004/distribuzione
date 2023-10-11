@@ -398,4 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # prova 
-*.segreto.txt
+segreto.txt
